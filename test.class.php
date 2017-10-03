@@ -6,6 +6,7 @@
 	 * Autor: GUETIKILA Daouda
 	 * Date: 06/04/2017
 	 * Time: 22:08
+	 * Contributors: Alain, Moussa, Teddy, Ivan, Antoine, Raymond, Roland
 	 */
 	 
 	class Bots {
