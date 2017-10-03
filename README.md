@@ -7,7 +7,7 @@
  Time: 22:08
  
  
-# Introductio: 
+# Introduction: 
 
 1 - Lisez attentivement ce document
 
@@ -42,3 +42,7 @@ Bots::sendRequest(Bots::setMessage($message['sender']['id'],$message_retour));
 3 - En fin, appeler votre bots dans l'url de la façon suivante: 127.0.0.1/testbots/index.php?input=xxx ou xxx est la réponse envoyée à votre bots dépuis messenger par l'utilisateur; "bonjour" par exemple.
 
 4 - Constatez le contenu au format JSON affiché.
+
+# III - Juste un testbots/index
+
+Travaux pratiques - formation sur Git et GitHub
